@@ -16,4 +16,4 @@ In this project, I implemented the API consumption [ViaCep](https://viacep.com.b
 
 Estou em período de avaliação da Universidade, portanto este e outros repositórios estã em estágios iniciais, a serem complementados futuramente.
 
-I am in the evaluation period of the University, therefore this and other repositories are in initial stages, to be complemented in the future.
+I am in the evaluation period of the University, therefore this and other repositories are in initial stages, to be complemented in the future...
